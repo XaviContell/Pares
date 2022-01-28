@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+body{
+	font-family: sans-serif;
+	display: block;
+	border-left: #ffa500 2px solid;
+	border-right: #ffa500 6px solid;
+	border-bottom: #ffa500 18px solid;
+	margin: 0 0 25px;
+}
+
+h1{
+	background-color: #ffa500;
+	font-family: 'Sriracha', cursive;
+	color: white;
+	text-align: center;
+	padding: 18px;
+	margin: 0;
+}
+
+#enlaces{
+	background-color: lightblue;
+	padding-left: 40px;
+	padding-top: 20px;
+	word-spacing: 8px;
+}
+#home{
+	border: black 1px solid;
+	position: relative;
+	bottom: 18px;
+	padding: 2px;
+}
+#productos{
+	border: black 1px solid;
+	position: relative;
+	bottom: 18px;
+	padding: 2px;
+}
+#empleados{
+	border: black 1px solid;
+	position: relative;
+	bottom: 18px;
+	padding: 2px;
+}
+#instituto{
+	border: black 1px solid;
+	position: relative;
+	bottom: 18px;
+	padding: 2px;
+}
+
+
+#stevejobs{
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+#texto1{
+	border-left: blue;
+	border-right: blue;
+	border-width: 20px;
+	border-style: solid none;
+	color: blue;
+}
+
+#fondoazul{
+	background-color: lightblue;
+}
+
+#macintosh{
+	float: right;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+#texto2{
+	border-left: red;
+	border-right: red;
+	border-width: 20px;
+	border-style: solid none;
+	color: red;
+}
+
+
+#final{
+	background-color: #e83434;
+	text-align: center;
+}
+#amarillo{
+	background-color: yellow;
+}
+
